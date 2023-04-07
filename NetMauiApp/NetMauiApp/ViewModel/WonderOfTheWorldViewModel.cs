@@ -17,6 +17,9 @@ namespace NetMauiApp.ViewModel
 
         private readonly IConnectivity _connectivity;
         private readonly IGeolocation _geolocation;
+
+        [ObservableProperty]
+        private bool isRefreshing;
         public WonderOfTheWorldViewModel(WonderOfTheWorldService wonderOfTheWorldService,
             IConnectivity connectivity,
             IGeolocation geolocation)
@@ -104,6 +107,7 @@ namespace NetMauiApp.ViewModel
             finally 
             {
                 IsBusy = false; 
+                IsRefreshing = false;
             }
         }
     }

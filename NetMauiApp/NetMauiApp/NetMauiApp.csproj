@@ -67,6 +67,8 @@
 	  <None Remove="Resources\Images\hanging_gardens.jpg" />
 	  <None Remove="Resources\Images\lighthouse_alexandria.jpg" />
 	  <None Remove="Resources\Images\mausoleum.jpg" />
+	  <None Remove="Resources\Images\nodata.jpg" />
+	  <None Remove="Resources\Images\nodata2.png" />
 	  <None Remove="Resources\Images\pyramids.jpg" />
 	  <None Remove="Resources\Images\temple_artemis.jpg" />
 	  <None Remove="Resources\Images\zeus.jpg" />
