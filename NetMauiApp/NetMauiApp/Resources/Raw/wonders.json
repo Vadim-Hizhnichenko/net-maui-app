@@ -1,0 +1,63 @@
+ [
+   {
+    "name": "Great Pyramid of Giza",
+    "location": "Egypt",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/All_Gizah_Pyramids-3.jpg",
+    "latitude": 29.9792,
+    "longitude": 31.1342,
+    "description": "The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex. It is believed to have been built as a tomb for the Pharaoh Khufu and was completed around 2560 BC. It is one of the most famous landmarks in Egypt and is considered one of the greatest architectural achievements of the ancient world."
+    },
+  {
+    "name": "Hanging Gardens of Babylon",
+    "location": "Iraq",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Hanging_Gardens_of_Babylon.jpg/350px-Hanging_Gardens_of_Babylon.jpg",
+    "latitude": 32.5359,
+    "longitude": 44.4196,
+    "description": "The Hanging Gardens of Babylon were a series of terraced gardens that were built in Babylon, near present-day Hillah, Babil province, in Iraq. They were one of the Seven Wonders of the Ancient World and were built by King Nebuchadnezzar II in the 6th century BCE. They were said to have been a marvel of engineering and horticulture, featuring a complex system of waterworks and exotic plant life."
+  },
+
+  {
+    "name": "Statue of Zeus at Olympia",
+    "location": "Greece",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG/800px-Giove%2C_I_sec_dc%2C_con_parti_simulanti_il_bronzo_moderne_02.JPG",
+    "latitude": 37.6386,
+    "longitude": 21.6265,
+    "description": "The Statue of Zeus at Olympia was a giant seated statue of the Greek god Zeus. It was created by the sculptor Phidias around 435 BCE and was located in the Temple of Zeus in Olympia, Greece. The statue was over 40 feet tall and was considered one of the greatest achievements of ancient Greek sculpture. Unfortunately, the statue was destroyed in a fire in the 5th century CE and no copies of it survive."
+  },
+
+  {
+    "name": "Temple of Artemis at Ephesus",
+    "location": "Turkey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Miniaturk_009.jpg/220px-Miniaturk_009.jpg",
+    "latitude": 37.9499,
+    "longitude": 27.3646,
+    "description": "The Temple of Artemis at Ephesus was a Greek temple dedicated to the goddess Artemis. It was located in Ephesus, in present-day Turkey, and was one of the Seven Wonders of the Ancient World. The temple was first built in the 6th century BCE and was destroyed and rebuilt several times over the centuries. The final version of the temple was built in the 4th century BCE and was one of the largest temples in the ancient world, featuring over 100 columns and a statue of Artemis inside."
+  },
+
+  {
+    "name": "Mausoleum at Halicarnassus",
+    "location": "Turkey",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BodrumCastlesoutheast.jpg/220px-BodrumCastlesoutheast.jpg",
+    "latitude": 37.0386,
+    "longitude": 27.4253,
+    "description": "The Mausoleum at Halicarnassus was a tomb built for Mausolus, the ruler of the Persian satrapy of Caria, and his wife Artemisia II. It was located in Halicarnassus, in present-day Bodrum, Turkey, and was one of the Seven Wonders of the Ancient World. The tomb was built in the 4th century BCE and was considered one of the greatest examples of classical Greek architecture. Unfortunately, the tomb was destroyed by earthquakes in the 15th century CE and no remains of it survive."
+  },
+
+  {
+    "name": "Lighthouse Alexandria",
+    "location": "Egypt",
+    "image": "https://egyptianmuseum.org/uploads/images/Timeline/Pharos.jpg",
+    "latitude": 37.6386,
+    "longitude": 21.6265,
+    "description": "The Statue of Zeus at Olympia was a giant seated statue of the Greek god Zeus. It was created by the sculptor Phidias around 435 BCE and was located in the Temple of Zeus in Olympia, Greece. The statue was over 40 feet tall and was considered one of the greatest achievements of ancient Greek sculpture. Unfortunately, the statue was destroyed in a fire in the 5th century CE and no copies of it survive."
+  },
+
+  {
+    "name": "Colosus",
+    "location": "Greece",
+    "image": "https://hips.hearstapps.com/popularmechanics/assets/16/01/1452202029-colossus-of-rhodes-project.jpg",
+    "latitude": 37.6386,
+    "longitude": 21.6265,
+    "description": "The Statue of Zeus at Olympia was a giant seated statue of the Greek god Zeus. It was created by the sculptor Phidias around 435 BCE and was located in the Temple of Zeus in Olympia, Greece. The statue was over 40 feet tall and was considered one of the greatest achievements of ancient Greek sculpture. Unfortunately, the statue was destroyed in a fire in the 5th century CE and no copies of it survive."
+  }
+  ]
